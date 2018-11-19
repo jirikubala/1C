@@ -1,0 +1,6 @@
+C:\Users\kubala\Desktop\ProjektTvaryKubala\ProjektTvary\bin\Debug\ProjektTvary.exe.config
+C:\Users\kubala\Desktop\ProjektTvaryKubala\ProjektTvary\bin\Debug\ProjektTvary.exe
+C:\Users\kubala\Desktop\ProjektTvaryKubala\ProjektTvary\bin\Debug\ProjektTvary.pdb
+C:\Users\kubala\Desktop\ProjektTvaryKubala\ProjektTvary\obj\Debug\ProjektTvary.csprojResolveAssemblyReference.cache
+C:\Users\kubala\Desktop\ProjektTvaryKubala\ProjektTvary\obj\Debug\ProjektTvary.exe
+C:\Users\kubala\Desktop\ProjektTvaryKubala\ProjektTvary\obj\Debug\ProjektTvary.pdb

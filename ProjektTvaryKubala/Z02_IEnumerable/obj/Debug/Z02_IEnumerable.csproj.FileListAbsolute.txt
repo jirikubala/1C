@@ -1,0 +1,6 @@
+C:\Users\kubala\Desktop\ProjektTvaryKubala\Z02_IEnumerable\bin\Debug\Z02_IEnumerable.exe.config
+C:\Users\kubala\Desktop\ProjektTvaryKubala\Z02_IEnumerable\bin\Debug\Z02_IEnumerable.exe
+C:\Users\kubala\Desktop\ProjektTvaryKubala\Z02_IEnumerable\bin\Debug\Z02_IEnumerable.pdb
+C:\Users\kubala\Desktop\ProjektTvaryKubala\Z02_IEnumerable\obj\Debug\Z02_IEnumerable.exe
+C:\Users\kubala\Desktop\ProjektTvaryKubala\Z02_IEnumerable\obj\Debug\Z02_IEnumerable.pdb
+C:\Users\kubala\Desktop\ProjektTvaryKubala\Z02_IEnumerable\obj\Debug\Z02_IEnumerable.csprojResolveAssemblyReference.cache

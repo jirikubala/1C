@@ -1,0 +1,6 @@
+C:\Users\kubala\Desktop\ProjektTvaryKubala\Z03_EnumeratorDemos\bin\Debug\Z03_EnumeratorDemos.exe.config
+C:\Users\kubala\Desktop\ProjektTvaryKubala\Z03_EnumeratorDemos\bin\Debug\Z03_EnumeratorDemos.exe
+C:\Users\kubala\Desktop\ProjektTvaryKubala\Z03_EnumeratorDemos\bin\Debug\Z03_EnumeratorDemos.pdb
+C:\Users\kubala\Desktop\ProjektTvaryKubala\Z03_EnumeratorDemos\obj\Debug\Z03_EnumeratorDemos.exe
+C:\Users\kubala\Desktop\ProjektTvaryKubala\Z03_EnumeratorDemos\obj\Debug\Z03_EnumeratorDemos.pdb
+C:\Users\kubala\Desktop\ProjektTvaryKubala\Z03_EnumeratorDemos\obj\Debug\Z03_EnumeratorDemos.csprojResolveAssemblyReference.cache

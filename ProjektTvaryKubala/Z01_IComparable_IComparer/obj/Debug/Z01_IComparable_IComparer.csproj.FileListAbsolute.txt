@@ -1,0 +1,6 @@
+C:\Users\kubala\Desktop\ProjektTvaryKubala\Z01_IComparable_IComparer\bin\Debug\Z01_IComparable_IComparer.exe.config
+C:\Users\kubala\Desktop\ProjektTvaryKubala\Z01_IComparable_IComparer\bin\Debug\Z01_IComparable_IComparer.exe
+C:\Users\kubala\Desktop\ProjektTvaryKubala\Z01_IComparable_IComparer\bin\Debug\Z01_IComparable_IComparer.pdb
+C:\Users\kubala\Desktop\ProjektTvaryKubala\Z01_IComparable_IComparer\obj\Debug\Z01_IComparable_IComparer.csprojResolveAssemblyReference.cache
+C:\Users\kubala\Desktop\ProjektTvaryKubala\Z01_IComparable_IComparer\obj\Debug\Z01_IComparable_IComparer.exe
+C:\Users\kubala\Desktop\ProjektTvaryKubala\Z01_IComparable_IComparer\obj\Debug\Z01_IComparable_IComparer.pdb
